@@ -3,4 +3,10 @@ This repository is for learning Reinforcement Learning. I will post my personal 
 ---
 # DQN
 
+
 # A3C
+
+
+#### N Step
+
+#### Multi-Processing
