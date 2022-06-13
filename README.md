@@ -1,7 +1,7 @@
 # RL
 ---
 # DQN
-
+with Carpole-v1
 
 # A3C
 
@@ -11,6 +11,8 @@
 #### Multi-Processing
 
 # DQfD
+with Carpole-v1
 
 #### With Priority
+
 #### Without Priority
